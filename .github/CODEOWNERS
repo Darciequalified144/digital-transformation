@@ -1,5 +1,0 @@
-# Require review for schema changes
-supabase/** @your-github-username
-
-# Require review for CI/CD changes
-.github/workflows/** @your-github-username
